@@ -1,0 +1,18 @@
+1661fd4 Agregando 2 parrafos
+65baa94 Resolviendo conflicto en estaciones del año y fechas de inicio
+f58fe19 Agregando Estaciones del año con fecha de inicio
+88d027a Agregando las estaciones del año
+ebbee66 Resolviendo conflicto merge main/html en el documento index.html
+ffbd5bc Actualizando el index.html
+aca07d0 Agregando index.js al index.html
+1504b19 Agregando contenido a index.html
+d932c39 Merge branch 'js'
+fc5a05a Creando index.js
+43927dd Creando rama css
+5699bfe Creando archivo index.html
+02940e0 Borre el prueba.js
+fa0a696 Agregue el prueba.js
+88b2771 Subi el problema de huguito.js
+d027ddb Modificacion de texto en negritas del Readme.md
+b144b97 Creacion del .gitignore
+c57202f Creacion de readme.md
